@@ -32,6 +32,7 @@ Ex:cores
 body {
     background-color: rgba(175, 163, 236, 0.463);
     min-width: 300px;
+    max-width: 1000px;
 
 }
 
@@ -91,7 +92,6 @@ nav > a:hover {
 main {
     background-color: white;
     text-align: justify;
-    min-width: 300px;
     max-width: 1000px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.363);
     margin: auto;
