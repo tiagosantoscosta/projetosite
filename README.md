@@ -1,2 +1,2 @@
-# Projetos-HTML-CSS-JavaScript
+# Projetositeguitar
 Projetos desenvolvidos por Tiago Costa
