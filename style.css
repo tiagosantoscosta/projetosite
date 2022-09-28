@@ -125,7 +125,7 @@ article > figure > img{
 div.video {
     position: relative;
     padding: 20px;
-    margin: 19px -26px -58px 58px;
+    margin: 19px -26px -58px 40px;
     padding-bottom: 55%;
     
 }
@@ -137,6 +137,7 @@ div.video > iframe {
     height: 80%;
     box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.371);
     border-radius: 3px;
+    margin: auto;
 
 }
 
